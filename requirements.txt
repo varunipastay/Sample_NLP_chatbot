@@ -1,0 +1,12 @@
+nltk
+numpy
+tflearn @ git+https://github.com/ivineettiwari/tflearn-fix.git@0.1-fix
+tensorflow
+# pickle5
+pyjwt
+pandas
+schedule
+pycryptodome
+crypto
+flask
+flask-cors
